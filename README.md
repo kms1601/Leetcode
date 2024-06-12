@@ -14,3 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kms1601/Leetcode/tree/master/0075-sort-colors) |
+# Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/kms1601/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
