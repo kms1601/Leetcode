@@ -22,3 +22,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1258-article-views-i](https://github.com/kms1601/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/kms1601/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/kms1601/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/kms1601/Leetcode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/kms1601/Leetcode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/kms1601/Leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/kms1601/Leetcode/tree/master/0101-symmetric-tree) |
+<!---LeetCode Topics End-->
