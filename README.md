@@ -46,4 +46,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kms1601/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## String
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
