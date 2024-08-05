@@ -46,18 +46,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kms1601/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
 ## Array
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kms1601/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -98,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
