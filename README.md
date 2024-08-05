@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kms1601/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Matrix
+|  |
+| ------- |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
