@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -100,9 +101,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
