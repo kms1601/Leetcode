@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
@@ -119,4 +120,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
+## Greedy
+|  |
+| ------- |
+| [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
+## Sorting
+|  |
+| ------- |
+| [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
 <!---LeetCode Topics End-->
