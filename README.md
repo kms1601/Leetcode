@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/kms1601/Leetcode/tree/master/0118-pascals-triangle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kms1601/Leetcode/tree/master/0561-array-partition) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/kms1601/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
