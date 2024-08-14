@@ -141,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kms1601/Leetcode/tree/master/0561-array-partition) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/kms1601/Leetcode/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
