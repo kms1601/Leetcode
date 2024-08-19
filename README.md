@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/kms1601/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/kms1601/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
 ## Array
 |  |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kms1601/Leetcode/tree/master/0561-array-partition) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/kms1601/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/kms1601/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2634-minimum-common-value](https://github.com/kms1601/Leetcode/tree/master/2634-minimum-common-value) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kms1601/Leetcode/tree/master/0118-pascals-triangle) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/kms1601/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kms1601/Leetcode/tree/master/0561-array-partition) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/kms1601/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
