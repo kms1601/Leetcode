@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/kms1601/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0502-ipo](https://github.com/kms1601/Leetcode/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/kms1601/Leetcode/tree/master/0561-array-partition) |
+| [0747-min-cost-climbing-stairs](https://github.com/kms1601/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kms1601/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/kms1601/Leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kms1601/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/kms1601/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/kms1601/Leetcode/tree/master/0118-pascals-triangle) |
+| [0747-min-cost-climbing-stairs](https://github.com/kms1601/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/kms1601/Leetcode/tree/master/1352-maximum-profit-in-job-scheduling) |
 ## Stack
 |  |
